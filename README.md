@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @TheBlurHacker
-- 👀 I’m interested in Game Development and Quick Access Programs
-- 🌱 I’m currently learning JavaScript, Dart and CSS
+- 👀 I’m interested in Game Development and Building Programs
+- 🌱 I’m currently learning JavaScript, Python and more
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
