@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @TheBlurHacker
-- 👀 I’m interested in Game Development and Building Programs
-- 🌱 I’m currently learning JavaScript, Python and more
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in AI.
+- 🌱 I’m currently learning Python.
 
 <!---
 TheBlurHacker/TheBlurHacker is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
